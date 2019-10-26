@@ -1,2 +1,2 @@
-# Basketball-Stat-Tracker
+# basketball-stat-tracker
 C++ program that tracks basketball stats.
